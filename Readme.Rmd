@@ -30,3 +30,5 @@ plot(pressure)
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 Changes for GIT
 Have something changed
+
+New changes i the branch roposed-fixes
